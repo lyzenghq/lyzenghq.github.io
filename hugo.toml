@@ -1,3 +1,23 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://lyzenghq.github.io'
+languageCode = 'zh-CN'
+title = "Sdiodio's Blog"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Sdiodio"
+  description = "About everything."
+  github = "lyzenghq"
+  url = "https://lyzenghq.github.io"
+  keywords = "blog"
+  rss = true
+  lastmod = true
+  favicon = "/images/github-mark-white.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/github-mark-white.png"
+  location = "China"
+  enableGitalk = false
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
