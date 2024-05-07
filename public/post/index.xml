@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sdiodio&#39;s Blog</title>
-    <link>https://lyzenghq.github.io/</link>
-    <description>Recent content on Sdiodio&#39;s Blog</description>
+    <title>Posts on Sdiodio&#39;s Blog</title>
+    <link>https://lyzenghq.github.io/post/</link>
+    <description>Recent content in Posts on Sdiodio&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 07 May 2024 14:05:16 +0800</lastBuildDate>
-    <atom:link href="https://lyzenghq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lyzenghq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About retro games, consoles and emulators</title>
       <link>https://lyzenghq.github.io/post/about_retro_games_consoles_and_emulators/</link>
       <pubDate>Tue, 07 May 2024 14:03:44 +0800</pubDate>
       <guid>https://lyzenghq.github.io/post/about_retro_games_consoles_and_emulators/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>README</title>
-      <link>https://lyzenghq.github.io/readme/</link>
-      <pubDate>Tue, 07 May 2024 10:50:20 +0800</pubDate>
-      <guid>https://lyzenghq.github.io/readme/</guid>
-      <description>Welcome to Sdiodio&amp;rsquo;s Blog.&#xA;Anything interesting to me is likely to be posted here.</description>
     </item>
   </channel>
 </rss>

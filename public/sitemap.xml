@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lyzenghq.github.io/readme/</loc>
-    <lastmod>2024-05-07T10:54:10+08:00</lastmod>
+    <loc>https://lyzenghq.github.io/post/</loc>
+    <lastmod>2024-05-07T16:11:14+08:00</lastmod>
   </url><url>
     <loc>https://lyzenghq.github.io/</loc>
+    <lastmod>2024-05-07T16:11:14+08:00</lastmod>
+  </url><url>
+    <loc>https://lyzenghq.github.io/post/about_retro_games_consoles_and_emulators/</loc>
+    <lastmod>2024-05-07T14:05:16+08:00</lastmod>
+  </url><url>
+    <loc>https://lyzenghq.github.io/readme/</loc>
     <lastmod>2024-05-07T10:54:10+08:00</lastmod>
   </url><url>
     <loc>https://lyzenghq.github.io/categories/</loc>
