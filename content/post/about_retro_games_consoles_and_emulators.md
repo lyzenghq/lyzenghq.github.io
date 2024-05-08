@@ -2,7 +2,7 @@
 title = 'About Retro Games, Consoles and Emulators'
 date = 2024-05-07T14:03:44+08:00
 draft = false
-summary = ''
+summary = 'RT'
 +++
 
 # About Retro Games, Consoles and Emulators
