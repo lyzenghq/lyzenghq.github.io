@@ -2,7 +2,7 @@
 title = 'About Retro Games, Consoles and Emulators'
 date = 2024-05-07T14:03:44+08:00
 draft = false
-summary = 'RT'
+summary = '...'
 +++
 
 # About Retro Games, Consoles and Emulators
@@ -12,6 +12,13 @@ summary = 'RT'
 + [Retro & Classic Video Games & Consoles | GameStop](https://www.gamestop.com/video-games/retro-gaming)
 + [Retro Video Game Store — Retro Gaming of Denver](https://retrogamingofdenver.com/)
 + [RetroAchievements](https://retroachievements.org/): Adding achievements to retro games since 2012
++ [老男人游戏网 | OldmanTVG.net](https://www.oldmantvg.net/)
+  + [previous domain](https://www.oldmanemu.net/)
+  + [老男人游戏网 配套论坛](https://bbs.oldmantvg.net/)
++ [TGFC Lifestyle BBS](https://bbs.tgfcer.com/)
+  + [经典游戏怀旧专区](https://bbs.tgfcer.com/forum-101-1.html)
++ [Leafans BBS](https://bbs.leafans.com/)
+  + [Leafans Blog](https://moegirl.win/)
 
 ## 2. Consoles
 
@@ -62,3 +69,9 @@ summary = 'RT'
   + [The Legend of Zelda: Ocarina of Time/Version Differences](https://tcrf.net/The_Legend_of_Zelda:_Ocarina_of_Time/Version_Differences)
 + [Zelda: Every Version Of Ocarina Of Time, Ranked Worst To Best](https://screenrant.com/zelda-ocarina-time-every-version-ranked-worst-best/)
 + [Legend of Zelda, The: Ocarina of Time (Nintendo 64) · RetroAchievements](https://retroachievements.org/game/10113)
++ [Ship of Harkinian](https://www.shipofharkinian.com/)
+  + [HarbourMasters/Shipwright | github](https://github.com/HarbourMasters/Shipwright/)
+  + [A full Zelda: Ocarina of Time PC port is now complete and available online](https://www.videogameschronicle.com/news/zelda-ocarina-of-time-pc-port/)
++ [Open Ocarina - The Master Port | github](https://github.com/blawar/ooot)
++ [时之笛现代游玩方式的调研](https://bbs.oldmantvg.net/thread-34700.htm)
++ [在 Steam Deck 上游玩塞尔达传说：时之笛 3D](https://nolebase.ayaka.io/to/ba618a43dc)
