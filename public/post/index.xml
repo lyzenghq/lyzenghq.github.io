@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Sdiodio&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 May 2024 17:51:56 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 16:43:28 +0800</lastBuildDate>
     <atom:link href="https://lyzenghq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static Site Generators</title>
+      <link>https://lyzenghq.github.io/post/static_site_generators/</link>
+      <pubDate>Sat, 11 May 2024 14:58:37 +0800</pubDate>
+      <guid>https://lyzenghq.github.io/post/static_site_generators/</guid>
+      <description>&amp;hellip;</description>
+    </item>
     <item>
       <title>Useful Websites</title>
       <link>https://lyzenghq.github.io/post/useful_websites/</link>
