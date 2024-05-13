@@ -6,7 +6,7 @@
     <description>Recent content on Sdiodio&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 May 2024 16:43:28 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 18:03:18 +0800</lastBuildDate>
     <atom:link href="https://lyzenghq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Static Site Generators</title>
@@ -21,6 +21,13 @@
       <pubDate>Thu, 09 May 2024 17:18:48 +0800</pubDate>
       <guid>https://lyzenghq.github.io/post/useful_websites/</guid>
       <description>&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Design_resources</title>
+      <link>https://lyzenghq.github.io/post/design_resources/</link>
+      <pubDate>Tue, 07 May 2024 15:57:52 +0800</pubDate>
+      <guid>https://lyzenghq.github.io/post/design_resources/</guid>
+      <description>Design resources from google, microsoft, etc.</description>
     </item>
     <item>
       <title>About Retro Games, Consoles and Emulators</title>
