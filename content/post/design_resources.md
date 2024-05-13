@@ -1,8 +1,8 @@
 +++
-title = 'Design_resources'
+title = 'Design Resources'
 date = 2024-05-07T15:57:52+08:00
 draft = false
-summary = 'Design resources from google, microsoft, etc.'
+summary = 'Design resources from Google, Microsoft, Apple, etc.'
 +++
 
 # Design Resources
