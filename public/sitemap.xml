@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lyzenghq.github.io/post/awesome_system_utilities/</loc>
+    <lastmod>2024-05-29T17:50:05+08:00</lastmod>
+  </url><url>
     <loc>https://lyzenghq.github.io/post/</loc>
-    <lastmod>2024-05-13T18:05:42+08:00</lastmod>
+    <lastmod>2024-05-29T18:12:40+08:00</lastmod>
   </url><url>
     <loc>https://lyzenghq.github.io/</loc>
-    <lastmod>2024-05-13T18:05:42+08:00</lastmod>
+    <lastmod>2024-05-29T18:12:40+08:00</lastmod>
+  </url><url>
+    <loc>https://lyzenghq.github.io/post/bootable_usb_flash_drive/</loc>
+    <lastmod>2024-05-29T17:15:22+08:00</lastmod>
+  </url><url>
+    <loc>https://lyzenghq.github.io/post/rankings/</loc>
+    <lastmod>2024-05-29T17:54:14+08:00</lastmod>
+  </url><url>
+    <loc>https://lyzenghq.github.io/post/editors_fonts_and_terminals/</loc>
+    <lastmod>2024-05-29T18:12:40+08:00</lastmod>
   </url><url>
     <loc>https://lyzenghq.github.io/post/static_site_generators/</loc>
     <lastmod>2024-05-13T16:43:28+08:00</lastmod>
@@ -15,7 +27,7 @@
     <lastmod>2024-05-09T17:51:56+08:00</lastmod>
   </url><url>
     <loc>https://lyzenghq.github.io/post/design_resources/</loc>
-    <lastmod>2024-05-13T18:05:42+08:00</lastmod>
+    <lastmod>2024-05-29T17:18:41+08:00</lastmod>
   </url><url>
     <loc>https://lyzenghq.github.io/post/about_retro_games_consoles_and_emulators/</loc>
     <lastmod>2024-05-09T17:17:03+08:00</lastmod>

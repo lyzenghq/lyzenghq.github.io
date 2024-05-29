@@ -6,8 +6,36 @@
     <description>Recent content on Sdiodio&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 May 2024 18:05:42 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 18:12:40 +0800</lastBuildDate>
     <atom:link href="https://lyzenghq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awesome System Utilities</title>
+      <link>https://lyzenghq.github.io/post/awesome_system_utilities/</link>
+      <pubDate>Wed, 29 May 2024 17:21:45 +0800</pubDate>
+      <guid>https://lyzenghq.github.io/post/awesome_system_utilities/</guid>
+      <description>&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Bootable USB Flash Drive</title>
+      <link>https://lyzenghq.github.io/post/bootable_usb_flash_drive/</link>
+      <pubDate>Wed, 29 May 2024 10:47:11 +0800</pubDate>
+      <guid>https://lyzenghq.github.io/post/bootable_usb_flash_drive/</guid>
+      <description>&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Rankings</title>
+      <link>https://lyzenghq.github.io/post/rankings/</link>
+      <pubDate>Wed, 29 May 2024 10:40:17 +0800</pubDate>
+      <guid>https://lyzenghq.github.io/post/rankings/</guid>
+      <description>&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Editors, Fonts and Terminals</title>
+      <link>https://lyzenghq.github.io/post/editors_fonts_and_terminals/</link>
+      <pubDate>Wed, 29 May 2024 10:13:31 +0800</pubDate>
+      <guid>https://lyzenghq.github.io/post/editors_fonts_and_terminals/</guid>
+      <description>&amp;hellip;</description>
+    </item>
     <item>
       <title>Static Site Generators</title>
       <link>https://lyzenghq.github.io/post/static_site_generators/</link>
