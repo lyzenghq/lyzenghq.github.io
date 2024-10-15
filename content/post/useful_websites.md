@@ -34,3 +34,11 @@ summary = '...'
 + [雷峰网](https://www.leiphone.com/)
 + [钛媒体](https://www.tmtpost.com/)
 + [极客公园](https://www.geekpark.net/)
+
+## Books
+
++ [识典古籍](https://www.shidianguji.com/)
++ [书格](https://www.shuge.org/)
++ [善书图书馆](https://simple.taolibrary.com/)
++ [中國哲學書電子化計劃](https://ctext.org/zh)
++ [维基文库](https://zh.wikisource.org/)
