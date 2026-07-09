@@ -1,7 +1,7 @@
 ---
 title: "Gemini 问答：关于尼采哲学"
 date: 2026-07-09T13:44:00+08:00
-draft: true
+draft: false
 categories: ["哲学"]
 tags: ["哲学", "问答"]
 ---
