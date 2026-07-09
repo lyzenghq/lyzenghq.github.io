@@ -4,6 +4,7 @@ title = "Sdiodio's Blog"
 theme = "github-style"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+removePathAccents = false
 
 [params]
   author = "Sdiodio"
