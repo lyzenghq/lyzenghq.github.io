@@ -1,5 +1,5 @@
 baseURL = 'https://lyzenghq.github.io'
-languageCode = 'zh-CN'
+locale = 'zh-CN'
 title = "Sdiodio's Blog"
 theme = "github-style"
 pygmentsCodeFences = true
