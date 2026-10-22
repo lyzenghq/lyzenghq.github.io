@@ -11,7 +11,7 @@ summary: "Systems Performance: Enterprise and the Cloud, 2nd Edition 中的核�
 
 > *Systems Performance: Enterprise and the Cloud, 2nd Edition*
 > Brendan Gregg, Addison-Wesley, 2020
-> 位置按书中首次详细解释标注；“待补”表示截至 §1.7 尚未在已读范围内展开，后续读到时再补。
+> 位置按书中首次详细解释标注；“待补”表示截至 §1.8 尚未在已读范围内展开，后续读到时再补。
 
 ---
 
@@ -24,7 +24,8 @@ summary: "Systems Performance: Enterprise and the Cloud, 2nd Edition 中的核�
 | **Full Stack** | 全栈 | 在性能语境下，指从应用一直到底层硬件（metal）的完整软件栈，包括系统库、内核和硬件本身。（注：业界这个词常指前后端开发，性能语境下指「应用→库→内核→硬件」） | §1.1 |
 | **Data Path** | 数据路径 | 一个具体请求从入口到出口经过的所有组件链路。必须针对具体负载/请求来画，否则只是架构图。路径上任何环节都可能影响性能。 | §1.1 |
 | **Latency** | 延迟 | 完成一项操作所需的时间，是性能优化的核心目标之一。 | §1.6 |
-| **Throughput** | 吞吐量 | 单位时间内系统处理的工作量。 | 待补 |
+| **Throughput** | 吞吐量 | 已完成工作的速率。在通信领域常指数据速率（bytes/s 或 bits/s）；在数据库等场景也可指操作速率（ops/s 或 TPS）。（≠ bandwidth：吞吐量是当前实际速率，带宽是最大可能速率） | §2.1（§1.8 提及） |
+| **Bandwidth** | 带宽 | 某种网络类型的最大数据传输速率，通常以 bits/s 计，如 100 GbE 的带宽为 100 Gbits/s；收发两个方向可各有上限。（≠ throughput：§1.8 脚注指出，iperf 输出中的 “Bandwidth” 列实际测的是吞吐量，属于常见误用） | §10.1（§1.8 脚注提及） |
 | **Utilization** | 使用率 | 资源被占用的时间比例，如 CPU 使用率、磁盘使用率。（≠ saturation：使用率高不代表饱和，饱和的关键特征是请求在排队） | 待补 |
 | **Saturation** | 饱和度 | 资源已满且有请求排队等待的状态，关键在有没有排队（≠ utilization）。如 CPU 就绪队列过长、内存不足导致换页。 | 待补 |
 | **Errors** | 错误 | 资源或组件产生的错误计数，如网络丢包、磁盘 I/O 错误。 | 待补 |
@@ -53,7 +54,7 @@ summary: "Systems Performance: Enterprise and the Cloud, 2nd Edition 中的核�
 
 | 英文 | 中文 | 释义 | 书中位置（首次详细解释） |
 |------|------|------|----------------------|
-| **Experimental Tools** | 实验性工具 | 主动对系统施加负载或故障以观察反应的工具（如 stress-ng、fio、tc netem）。与 observability 的核心区别在于会对系统产生扰动，线上禁用。 | 待补 |
+| **Experimental Tools** | 实验性工具 | 向系统施加合成工作负载（synthetic workload）并测量其性能来做实验的工具，大多是基准测试工具（书中例子：iperf）。可能扰动被测系统，必须谨慎使用。书中建议生产系统上先用观测工具，但实验工具常能更快得出结论，二者应配合使用（“两只手”的比喻）。 | §1.8 |
 | **Profiling** | 剖析 | 一段时间内反复采样调用栈并按函数聚合，回答"资源花在哪个函数上"。是空间归因，不是延迟分布。（注意：火焰图宽度 ≠ 慢；不含 p99） | §1.7.2 |
 | **Flame Graph** | 火焰图 | profiling 数据的可视化，宽度 = 采样次数占比（不代表单次调用慢），层级 = 调用深度。由 Brendan Gregg 发明。 | §1.7.2 |
 | **Tracing** | 跟踪（追踪） | 按事件记录发生了什么及其时序，供后续分析或实时汇总。能看到哪些细节取决于可用的事件源和插桩点。 | §1.7.3 |
